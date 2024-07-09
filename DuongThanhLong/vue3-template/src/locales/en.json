@@ -1,0 +1,50 @@
+{
+  "errors": {
+    "name": {
+      "empty": "Name cannot be empty",
+      "tooLong": "Name can have a maximum of 200 characters"
+    },
+    "shop":{
+      "empty": "Shop name cannot be empty"
+    },
+    "product":{
+      "empty": "Product name cannot be empty",
+      "select": "Please select a product"
+    },
+    "form": {
+      "empty": "Please fill in all fields"
+    },
+    "price":{
+      "empty": "Price cannot be empty"
+    },
+    "color":{
+      "empty": "Color cannot be empty"
+    },
+    "address": {
+      "empty": "Address cannot be empty"
+    },
+    "email": {
+      "empty": "Email cannot be empty",
+      "invalid": "Email is not valid",
+      "tooLong": "Email can have a maximum of 200 characters"
+    },
+    "phone": {
+      "empty": "Phone number cannot be empty",
+      "invalid": "Phone number is not valid",
+      "min": "Phone number must have at least 10 characters",
+      "max": "Phone number can have a maximum of 11 characters"
+    },
+    "gender": {
+      "empty":"Please select gender"
+    },
+    "successMessage": "Sent successfully! We will contact you as soon as possible.",
+    "loginSuccess": "Login successful",
+    "password":{
+      "empty": "Password cannot be empty",
+      "tooShort": "Password must have at least 6 characters",
+      "tooLong": "Password can have a maximum of 200 characters",
+      "invalid": "Password must have at least one uppercase letter, one lowercase letter, one number and one special character",
+      "notMatch": "Passwords do not match"
+    }
+  }
+}

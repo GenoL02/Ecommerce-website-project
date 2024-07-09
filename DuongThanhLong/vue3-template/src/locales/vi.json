@@ -1,0 +1,50 @@
+{
+  "errors": {
+    "name": {
+      "empty": "Tên không được để trống",
+      "tooLong": "Tên tối đa 200 ký tự"
+    },
+    "shop":{
+      "empty": "Vui lòng điền tên cửa hàng"
+    },
+    "product":{
+      "empty": "Vui lòng điền tên sản phẩm",
+      "select": "Vui lòng chọn sản phẩm"
+    },
+    "form":{
+      "empty": "Vui lòng điền vào trường này"
+    },
+    "price":{
+      "empty": "Vui lòng điền giá sản phẩm"
+    },
+    "color":{
+      "empty": "Vui lòng chọn màu sắc"
+    },
+    "address": {
+      "empty": "Địa chỉ không được để trống"
+    },
+    "email": {
+      "empty": "Email không được để trống",
+      "invalid": "Email không hợp lệ",
+      "tooLong": "Email tối đa 200 ký tự"
+    },
+    "phone": {
+      "empty": "Số điện thoại không được để trống",
+      "invalid": "Số điện thoại không hợp lệ",
+      "min": "Số điện thoại phải có ít nhất 10 số",
+      "max": "Số điện thoại tối đa 11 số"
+    },
+    "gender": {
+      "empty": "Vui lòng chọn giới tính"
+    },
+    "successMessage": "Gửi thành công! Chúng tôi sẽ liên hệ với bạn sớm nhất có thể.",
+    "loginSuccess": "Đăng nhập thành công",
+    "password":{
+      "empty": "Mật khẩu không được để trống",
+      "tooShort": "Mật khẩu phải có ít nhất 6 ký tự",
+      "tooLong": "Mật khẩu tối đa 200 ký tự",
+      "invalid": "Mật khẩu phải chứa ít nhất 1 chữ cái viết hoa, 1 chữ cái viết thường và 1 số",
+      "notMatch": "Mật khẩu không khớp"
+    }
+  }
+}
